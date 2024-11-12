@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lbl_splash">#EB487E</color>
+    <color name="color_comunidad">#DB3326</color>
+    <color name="color_provincias">#3553EB</color>
+</resources>

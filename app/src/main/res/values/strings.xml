@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Listado_CCAA_provincias</string>
+    <string name="lbl_splash">Comunidades autónomas y Provincias</string>
+    <string name="lbl_comunidad">Comunidad autónoma:</string>
+    <string name="lbl_provincias">Provincias de</string>
+    <string-array name="comunidades_autonomas">
+        <item>Andalucía</item>
+        <item>Aragón</item>
+        <item>Asturias</item>
+        <item>Cantabria</item>
+        <item>Castilla - La Mancha</item>
+        <item>Castilla y León</item>
+        <item>Cataluña</item>
+        <item>Extremadura</item>
+        <item>País Vasco</item>
+        <item>Valencia</item>
+        <item>Murcia</item>
+        <item>Galicia</item>
+    </string-array>
+    <string-array name="andalucia">
+        <item>Almería</item>
+        <item>Granada</item>
+        <item>Málaga</item>
+        <item>Jaén</item>
+        <item>Córdoba</item>
+        <item>Sevilla</item>
+        <item>Cádiz</item>
+        <item>Huelva</item>
+    </string-array>
+    <string-array name="aragon">
+        <item>Zaragoza</item>
+        <item>Huesca</item>
+        <item>Teruel</item>
+    </string-array>
+    <string-array name="asturias">
+        <item>Asturias</item>
+    </string-array>
+    <string-array name="cantabria">
+        <item>Cantabria</item>
+    </string-array>
+    <string-array name="castila_la_mancha">
+        <item>Albacete</item>
+        <item>Ciudad Real</item>
+        <item>Cuenca</item>
+        <item>Guadalajara</item>
+        <item>Toledo</item>
+    </string-array>
+    <string-array name="castilla_leon">
+        <item>Ávila</item>
+        <item>Burgos</item>
+        <item>León</item>
+        <item>Palencia</item>
+        <item>Salamanca</item>
+        <item>Segovia</item>
+        <item>Soria</item>
+        <item>Valladolid</item>
+        <item>Zamora</item>
+    </string-array>
+    <string-array name="cataluña">
+        <item>Barcelona</item>
+        <item>Girona</item>
+        <item>Lleida</item>
+        <item>Tarragona</item>
+    </string-array>
+    <string-array name="extremadura">
+        <item>Badajoz</item>
+        <item>Caceres</item>
+    </string-array>
+    <string-array name="pais_vasco">
+        <item>Álava</item>
+        <item>Guipúzcoa</item>
+        <item>Vizcaya</item>
+    </string-array>
+    <string-array name="valencia">
+        <item>Alicante</item>
+        <item>Castellón</item>
+        <item>Valencia</item>
+    </string-array>
+    <string-array name="murcia">
+        <item>Murcia</item>
+    </string-array>
+    <string-array name="galicia">
+        <item>A Coruña</item>
+        <item>Lugo</item>
+        <item>Ourense</item>
+        <item>Pontevedra</item>
+    </string-array>
+</resources>
